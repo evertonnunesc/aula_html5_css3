@@ -1,0 +1,17 @@
+body {
+    background: #ebc5c5;
+    margin: 30px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+img {
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    color: red;
+    font-family: fantasy;
+}
